@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Практическое занятие 1 МДК.01.03</string>
+    <string name="namelist1">Геометрический калькулятор</string>
+    <string name="vvodlogin">Введите логин</string>
+    <string name="vvodpass">Введите пароль</string>
+    <string name="buttreg">Регистрация</string>
+    <string name="viborfiguri">Выбор фигуры</string>
+    <string name="spinfig">Выберите фигуру</string>
+    <string name="vvoddanih">Введите данные для расчета</string>
+    <string name="buttvipolrasch">Выполнить расчет</string>
+    <string name="proverkanalogin">Введите ваш логин</string>
+    <string name="proverkanapass">Выполнить ваш пароль</string>
+    <string name="nazvanieviborfig">Название выбранной фигуры</string>
+    <string name="resultant">РЕЗУЛЬТАТ</string>
+    <string name="resvich">Результат вычисления</string>
+
+
+        <string-array name="shape_list">
+            <item>Выберите фигуру</item>
+
+            <item>Круг</item>
+            <item>Треугольник</item>
+        </string-array>
+
+</resources>
